@@ -18,5 +18,5 @@ RMSE np.sqrt(mean_squared_error(y_true, y_pred))
 For data and more info, visit: https://www.machinehack.com/hackathons/grocery_sales_forecast_weekend_hackathon_4/overview
 
 ### Leaderboard:
-Rank: 27 (RMSE Score: 515.39424) on RBF-Kernel SVR model 
+Rank: 27 (RMSE Score: 515.39424) using RBF-Kernel SVR model. 
  
